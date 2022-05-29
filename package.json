@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/manamachado/api-test/issues"
   },
-  "homepage": "https://github.com/manamachado/api-test#readme"
+  "homepage": "https://github.com/manamachado/api-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
